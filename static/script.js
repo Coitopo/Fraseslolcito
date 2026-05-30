@@ -31,7 +31,22 @@ const audiosMemardos = [
     '/static/audios/memardos/meme7.mp3',
     '/static/audios/memardos/meme8.mp3',
     '/static/audios/memardos/meme9.mp3',
-    '/static/audios/memardos/meme10.mp3'
+    '/static/audios/memardos/meme10.mp3',
+    '/static/audios/memardos/meme11.m4a',
+    '/static/audios/memardos/meme12.m4a',
+    '/static/audios/memardos/meme13.m4a',
+    '/static/audios/memardos/meme14.m4a',
+    '/static/audios/memardos/meme15.m4a',
+    '/static/audios/memardos/meme16.m4a',
+    '/static/audios/memardos/meme17.m4a',
+    '/static/audios/memardos/meme18.m4a',
+    '/static/audios/memardos/meme19.m4a',
+    '/static/audios/memardos/meme20.m4a',
+    '/static/audios/memardos/meme21.m4a',
+    '/static/audios/memardos/meme22.m4a',
+    '/static/audios/memardos/meme23.m4a',
+    '/static/audios/memardos/meme24.m4a'
+    
 ];
 
 let playlistInspirate = [];
